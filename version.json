@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://raw.githubusercontent.com/gamer2134717138/cb-history-2026/main/ClipboardHistory.exe",
-  "notes": "Иконка в системном трее: окно сворачивается вместо закрытия, меню «Открыть / Очистить незакреплённые / Выход»"
+  "notes": "Исправлен запуск на новом ПК (ошибка sys.stderr is None при первом старте) + иконка в трее"
 }
